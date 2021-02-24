@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: "in"
+company_name: "sky"
 address_line: "hangzhou"
 telephone_number: 1.800.245.356
 fax_number: 1.800.245.357
